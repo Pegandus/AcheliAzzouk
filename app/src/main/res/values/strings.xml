@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bejaia Tourist Guide</string>
+    <string name="app_description">Bejaia, located between the Kabylie mountains and the Mediterranean coast, offers a great mix of nature and local culture. The province is known for its scenic mountains, quiet beaches, and a variety of restaurants serving local dishes. Whether you’re looking to hike, relax by the sea, or enjoy a good meal, Bejaia has something for everyone.</string>
+    <string name="explore">Explore Bejaia:</string>
+    <string name="beaches">Beaches</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="mountains">Mountains</string>
+    <string name="credits">Credits</string>
+    <string name="beach_desc">Bejaia is home to several beautiful beaches along the Mediterranean coast. The clear water and peaceful atmosphere make them ideal for swimming, relaxing, or enjoying a walk by the sea. These beaches are popular spots for both locals and visitors looking for a quiet escape.</string>
+    <string name="mountain_desc">The mountains in Bejaia offer a great escape into nature. With green hills, forests, and hiking paths, they’re perfect for anyone who enjoys outdoor activities. The views are wide and peaceful, giving a different side of Bejaia beyond the coast.</string>
+    <string name="restaurant_desc">Bejaia has a variety of restaurants where you can enjoy local and traditional food. From fresh seafood to Kabyle dishes, there’s something for every taste. It’s a good way to experience the region’s flavors and hospitality.</string>
+    <string name="beach_listing">Some of the most notable beaches in Bejaia:</string>
+    <string name="mountain_listing">Some of the most notable mountains in Bejaia:</string>
+    <string name="restaurant_listing">Some of the most notable restaurants in Bejaia:</string>
+    <string name="beach1">Melbou Beach</string>
+    <string name="beach2">Tighremt Beach</string>
+    <string name="mountain1">Yemma Gouraya</string>
+    <string name="mountain2">Pic des Singes</string>
+    <string name="restaurant1">Maison Opéra</string>
+    <string name="restaurant2">Atbaq</string>
+    <string name="description">Description:</string>
+    <string name="description1">Melbou Beach, nestled in the coastal town of Melbou in Béjaïa Province, Algeria, is a picturesque destination along the Mediterranean Sea. east of Béjaïa city, this beach offers a serene escape with its golden sands and clear waters, making it a favored spot for both locals and visitors seeking tranquility and natural beauty</string>
+    <string name="description2">Tighremt Beach is a true natural gem. Surrounded by green mountains that dive directly into the sea, it offers an idyllic setting for lovers of wild landscapes. With its fine sand and crystal-clear waters, Tighremt is perfect for sunbathing and swimming.</string>
+    <string name="description3">Yemma Gouraya, also known as Lalla Gouraya, is a mountain that overlooks the city of Béjaïa in Algeria, standing at an altitude of 660 meters. It is also believed to be the burial site of the city’s patron saint, Yemma Gouraya, although no archaeological evidence confirms this. A fort is located at the summit, and the area is part of a protected zone.</string>
+    <string name="description4">The "Pic des Singes" is a mountain peak in northern Algeria, located northwest of the city of Béjaïa in the Petite Kabylie region. It is situated at Cape Carbon in the Tell Atlas, along the Mediterranean coast.</string>
+    <string name="description5">Maison Opéra is an elegant, modern, and contemporary restaurant-patisserie offering various services, from gourmet dining, wood-fired pizza, and pastries, to a large tea lounge where you can enjoy a variety of fresh drinks and desserts.:</string>
+    <string name="description6">Atbaq offers you a 100% Algerian menu, sometimes Maghrebian. It is also a way to showcase and revive our culinary heritage, offering a variety of dishes based on regions and seasons, which creates a very diverse culinary palette. And according to the owners: "Not just a restaurant, but a little cocoon of love, a lifelong project, a childhood dream come true":</string>
+    <string name="info">Contact Information</string>
+    <string name="phone">Phone </string>
+    <string name="email">Email </string>
+    <string name="call">Call</string>
+    <string name="sms">SMS</string>
+    <string name="email_button">Email</string>
+</resources>

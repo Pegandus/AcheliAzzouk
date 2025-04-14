@@ -37,7 +37,6 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginEnd="16dp"
-        android:layout_marginBottom="8dp"
         android:text="@string/beaches" />
 
     <Button
@@ -47,7 +46,6 @@
         android:text="@string/restaurants"
         android:layout_marginStart="16dp"
         android:layout_marginEnd="16dp"
-        android:layout_marginBottom="8dp"
         />
 
     <Button
@@ -57,16 +55,15 @@
         android:text="@string/mountains"
         android:layout_marginStart="16dp"
         android:layout_marginEnd="16dp"
-        android:layout_marginBottom="32dp"
+        android:layout_marginBottom="8dp"
         />
 
     <Button
         android:id="@+id/credits_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/credits"
         android:layout_marginStart="16dp"
         android:layout_marginEnd="16dp"
-        />
+        android:text="@string/credits" />
 
 </LinearLayout>
